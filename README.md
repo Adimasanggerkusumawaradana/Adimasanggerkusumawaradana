@@ -4,3 +4,4 @@
 :arrow_up: i'am 19 years old
 :hammer: my hobby is traveling
 this is my expression in metkom practice :anguished:,:cold_sweat:,:rage:,:triumph:,:imp:
+why
