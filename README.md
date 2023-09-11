@@ -1,5 +1,6 @@
-## HELLOOO EVERYONE MY NAME IS ANGGER THIS IS MY PROFILE:
-# my name is Adimas angger kusumawardana :smile:
+<h1 align="center">Hi 👋, I'm Adimas angger kusumawardana</h1>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
+- 📫 How to reach me **adimasanggerkusumawardana@mail.ugm.ac.id**
 <br>
 :green_heart: i'm is geophysics student in gadjah mada university 
 <br>
@@ -7,12 +8,6 @@
 <br>
 :hammer: my hobby is traveling
 <br>
-this is my expression in metkom practice :anguished:,:cold_sweat:,:rage:,:triumph:,:imp:
-<h1 align="center">Hi 👋, I'm Adimas angger kusumawardana</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
-
-- 📫 How to reach me **adimasanggerkusumawardana@mail.ugm.ac.id**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@adimasanggerk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@adimasanggerk" height="30" width="40" /></a>
