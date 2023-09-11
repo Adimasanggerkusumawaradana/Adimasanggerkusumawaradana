@@ -1,5 +1,5 @@
 <div align="center" width="500">
-<img src="https://im4.ezgif.com/tmp/ezgif-4-46984fc5c2.gif" width="600">
+<img src="https://im2.ezgif.com/tmp/ezgif-2-37f222276d.gif" width="600">
 </div>
 <h1 align="center">Hi 👋, I'm Adimas angger kusumawardana</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
