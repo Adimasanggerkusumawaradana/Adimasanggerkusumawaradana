@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 - 📫 How to reach me **adimasanggerkusumawardana@mail.ugm.ac.id**
 <br>
-:green_heart: i'm is geophysics student in gadjah mada university 
+-:green_heart: i'm is geophysics student in gadjah mada university 
 <br>
-:arrow_up: i'am 19 years old
+-:arrow_up: i'am 19 years old
 <br>
-:hammer: my hobby is traveling
+-:hammer: my hobby is traveling
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
